@@ -1,0 +1,87 @@
+body{
+  background-color: #efefef !important;
+}
+
+table{
+  margin: auto; 
+  width: 70%;
+
+}
+
+td{
+  padding: 10px !important;
+}
+
+.center{
+  margin: auto;
+  width: 70%;
+}
+
+.table_2{
+  width: 48%;
+  margin: auto;
+}
+
+.table_2 td{
+  display: block;
+}
+
+.skill{
+  width: 20%;
+}
+
+.clear {
+  clear: both;
+}
+
+.bord{
+  border: 1px solid white;
+  background-color: white;
+  box-shadow: 3px 3px 3px 3px grey;
+}
+
+.avatar_bord{
+  border: 1px solid #bfbfbf;
+  height: 205px;
+}
+
+.star{
+  color: yellow;
+}
+
+.identity{
+  font-size: 1.3em;
+  color: grey;
+}
+
+.sub_title{
+  text-align: center;
+}
+
+.fr{
+  float: right;
+}
+
+.fl{
+  float: left;
+}
+
+name, i{
+  color: #0386cc;
+}
+
+.ui.progress .bar{
+  background-color: #0386cc !important;
+}
+
+.ui.progress{
+  background-color: grey !important;
+}
+
+.top_space{
+  margin-top: 30px !important;
+}
+
+.sub_title_spacing{
+  margin-bottom: -30px;
+}
